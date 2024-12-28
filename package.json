@@ -1,0 +1,15 @@
+{
+  "name": "projectlandinpagebaroqah",
+  "version": "1.0.0",
+  "description": "landing page baroqah aqiqah",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./input.css -o ./output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rendiero",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
