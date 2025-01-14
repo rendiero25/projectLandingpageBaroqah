@@ -8,3 +8,5 @@ document.querySelectorAll('.faq-question').forEach(button => {
         icon.textContent = answer.classList.contains('hidden') ? '+' : '-';
     });
 });
+
+
